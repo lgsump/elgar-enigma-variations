@@ -1,0 +1,624 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/elgar-enigma-variations/annotations/sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements.json",
+  "type": "AnnotationPage",
+  "label": "Movements",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Theme begins",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "4,5"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Theme ends",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "80,81"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation I. begins",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "82,83"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation I. ends",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "196,197"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation II. begins",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "198,199"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation II. ends",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "244,245"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation III. begins",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "246,247"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation III. ends",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "320,321"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation IV. begins",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "322,323"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation IV. ends",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "345,346"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation V. begins",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "347,348"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation V. ends",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "460,461"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation VI. begins",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "462,463"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation VI. ends",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "536,537"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation VII. begins",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "538,539"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation VII. ends",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "596,597"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation VIII. begins",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "598,599"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation VIII. ends",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "712,713"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation IX. begins",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "714,715"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation IX. ends",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "942,943"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation X. begins",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "944,945"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation X. ends",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1097,1098"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation XI. begins",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1099,1100"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation XI. ends",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1115,1116"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation XII. begins",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1117,1118"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation XII. ends",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1297,1298"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation XIII. begins",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1299,1300"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Variation XIII. ends",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1462,1463"
+        }
+      }
+    }
+  ]
+}
