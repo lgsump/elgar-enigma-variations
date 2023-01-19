@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/elgar-enigma-variations/annotations/sir-edward-elgar-s-enigma-variations-op-36-canvas-1-sound.json",
-            "label": {
-              "none": ["Sound"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/elgar-enigma-variations/annotations/sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements.json",
             "label": {
               "none": ["Movements"]
