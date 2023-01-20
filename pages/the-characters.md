@@ -68,3 +68,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 "E. D. U.", The composer, Sir Edward Elgar. XIV.
 
   "Finale: bold and vigorous in general style. Written at a time when friends were dubious and generally discouraging as to the composer's musical future, this variation is merely to show what E.D.U. (a paraphrase of a fond name) intended to do. References made to Var. I (C.A.E.) and to Var. IX (Nimrod), two great influences on the life and art of the composer, are entirely fitting to the intention of the piece. The whole of the work is summed up in the triumphant broad presentation of the theme in the major."
+  
+  Bibliography
+  
+    Elgar, Edward, and Edward Elgar. My Friends Pictured Within. London: Novello., 1900. 
