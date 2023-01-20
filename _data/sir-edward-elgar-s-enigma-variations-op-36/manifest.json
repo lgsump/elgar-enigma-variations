@@ -23,6 +23,16 @@
         "id": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1463.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/elgar-enigma-variations/annotations/sir-edward-elgar-s-enigma-variations-op-36-canvas-1-movements.json",
+            "label": {
+              "none": ["Movements"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://lgsump.github.io/elgar-enigma-variations/sir-edward-elgar-s-enigma-variations-op-36/canvas-1/paintings",
