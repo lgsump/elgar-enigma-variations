@@ -43,8 +43,6 @@ Here are some examples of how it has been used and remembered throughout history
 <br>
   - The ninth variation, <i>Nimrod</i>, the piece's most popular movement, is commonly used at funerals and memorials, and has been used in the Hong Kong handover ceremoney in 1997, the opening ceremony for the London 2012 Olympic Games, and the final piece, before the national anthem, played by the Greek National Orchestra as their ensemble was being cut due to governmental funding issues.
 <br>
-![image](https://user-images.githubusercontent.com/122332459/214743888-18ebd490-bbe3-46d4-b744-c56a11c2fee7.png)
-
 <br>
 <h2> Variation I </h2>
 <br>
@@ -54,9 +52,7 @@ Here are some examples of how it has been used and remembered throughout history
 </blockquote>
 <br> <tt>The annotation attached to Variation I highlights the melody that he would sing to Alice, his wife, every time he got home.</tt> <br>
 <br>
-
 ![image](https://user-images.githubusercontent.com/122332459/214743504-c333188f-8dda-4df1-8040-c17ad21eed0b.png)
-
 
 <br>
 <h2> Variation II </h2>
@@ -65,7 +61,7 @@ Here are some examples of how it has been used and remembered throughout history
 <br>
   "Hew David Steuart-Powell was a well-known amateur pianist and a great player of chamber music. He was associated with B.G.N. (Cello) and the Composer (Violin) for many years in this playing. His characteristic diatonic run over the keys before beginning to play is here humorously travestied in the semiquaver passages; these should suggest a Toccata, but chromatic beyond H.D.S.-P.'s liking."
 </blockquote>
-![image](https://user-images.githubusercontent.com/122332459/214727439-2da4ef1a-a2ab-4616-9859-ee6894e6b7f3.png)
+![image](https://user-images.githubusercontent.com/122332459/214744626-1ed5c51a-b320-473c-a6d5-12727096d979.png)
 
 <br>
 <h2> Variation III </h2>
@@ -74,7 +70,8 @@ Here are some examples of how it has been used and remembered throughout history
 <br>
   "Richard Baxter Townshend, whose Tenderfoot books are now so well known and appreciated. The Variation has a reference to R.B.T's presentation of an old man in some amateur theatricals- the low voice flying off occasionally into 'soprano' timbre. The oboe gives a somewhat pert version of the theme, and the growing grumpiness of the bassoons is important."
 </blockquote>
-![image](https://user-images.githubusercontent.com/122332459/214723467-163fd3d7-c0ab-49e3-85bc-b11ab221289e.png)
+![image](https://user-images.githubusercontent.com/122332459/214744684-92beb0e2-ad3b-48e5-a4e5-1198730fcecf.png)
+
 <br>
 <h2> Variation IV </h2>
 <br>
