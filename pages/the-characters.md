@@ -14,18 +14,19 @@ Firstly, I will be using the information that he used in his documentation of th
 Firstly, it leaves out any notes regarding the Theme because it is believed to have been about Elgar himself, as well as the Finale. So, we'll begin with Variation I. 
 </head>
 
-<body>
+
 <blockquote> "C. A. E.", Elgar's wife. I.
 
   "There is no break between the theme and this movement. The variation is really a prolongation of the theme with what I wished to be romantic and delicate additions; those who knew C.A.E. will understand this reference to one whose life was a romantic and delicate inspiration." 
 </blockquote>
-![image](https://user-images.githubusercontent.com/122332459/214726149-5591462d-a0c7-4bdc-9d3b-1c9a3e018ceb.png)
+![image](https://user-images.githubusercontent.com/122332459/214727277-424fe072-6e1d-4bdd-9235-f3b95ec25c7d.png)
+
 
 <blockquote> "H. D. S.-P.", Hew David Steuart-Powell. II.
 
   "Hew David Steuart-Powell was a well-known amateur pianist and a great player of chamber music. He was associated with B.G.N. (Cello) and the Composer (Violin) for many years in this playing. His characteristic diatonic run over the keys before beginning to play is here humorously travestied in the semiquaver passages; these should suggest a Toccata, but chromatic beyond H.D.S.-P.'s liking."
 </blockquote>
-
+![image](https://user-images.githubusercontent.com/122332459/214727439-2da4ef1a-a2ab-4616-9859-ee6894e6b7f3.png)
 
 <blockquote> "R.B.T.", Richard Baxter Townshend. III.
 
@@ -99,7 +100,7 @@ Firstly, it leaves out any notes regarding the Theme because it is believed to h
   "Finale: bold and vigorous in general style. Written at a time when friends were dubious and generally discouraging as to the composer's musical future, this variation is merely to show what E.D.U. (a paraphrase of a fond name) intended to do. References made to Var. I (C.A.E.) and to Var. IX (Nimrod), two great influences on the life and art of the composer, are entirely fitting to the intention of the piece. The whole of the work is summed up in the triumphant broad presentation of the theme in the major."
 </blockquote>
 ![image](https://user-images.githubusercontent.com/122332459/214723991-6f734a2d-610f-4e34-8eaa-496a46b85a81.png)
-</body>
+
 
   Bibliography
   
