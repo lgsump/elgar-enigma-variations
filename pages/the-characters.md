@@ -214,6 +214,8 @@ Here are some examples of how it has been used and remembered throughout history
 <br>
   
     Elgar, Edward (1946). My Friends Pictured Within. The subjects of the Enigma Variations as portrayed in contemporary photographs and Elgar's manuscript. London: Novello.
+    <br>
     Moore, Jerrold Northrop (1984). Edward Elgar: A Creative Life. Oxford University Press. ISBN 0-19-315447-1.
+    <br>
     Turner, Patrick (2007). Elgar's 'Enigma' Variations – A Centenary Celebration (second ed.). London: Thames Publishing.
     
