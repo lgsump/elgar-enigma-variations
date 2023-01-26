@@ -9,7 +9,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 Sir Edward Elgar's <i>Enigma Variations</i> is an iconic orchestral piece that secured Elgar's international fame and premiered in 1899 in London. This piece is important and interesting in many different ways, but this project will focus on the themes that Elgar used to organize and create the different parts of the piece. Elgar, ultimately, was very moved by the people around him, so in this piece each movement, or in his words, <i>variation</i>, is centered around a person or small group of people.
 <br>
 <br>
-Firstly, I will be using the information that he used in his documentation of the characters named "My Friends Pictured Within". The quotations and pictures are both from the book, however, the lines after the quotations will mostly note the direct connection between the Variation and the annotations that I made on the next page and will be written in <tt>this font</tt>. Next to each Variation title will be the "Index term" where you can go to the Index page on the left and look at all the annotations made for each variation. 
+Firstly, I will be using the information that he used in his documentation of the characters named "My Friends Pictured Within". The quotations and pictures are both from the book, however, the lines after the quotations will mostly note the direct connection between the Variation and the annotations that I made on the next page and will be written in <tt>this font</tt>. Below each variation title will be the "Index term" where you can go to the Index page on the left and look at all the annotations made for each variation. 
 <br>
 <br>
 The book leaves out any notes regarding the "Theme" that comes before the first variation because it is believed to have been about Elgar himself. This is what is presumed about the "Finale" as well. So, we'll begin with Variation I and work our way through to Variation XIV. 
@@ -48,7 +48,9 @@ Here are some examples of how it has been used and remembered throughout history
   - The ninth variation, <i>Nimrod</i>, the piece's most popular movement, is commonly used at funerals and memorials, and has been used in the Hong Kong     handover ceremoney in 1997, the opening ceremony for the London 2012 Olympic Games, and the final piece, before the national anthem, played by the         Greek National Orchestra as their ensemble was being cut due to governmental funding issues.
 <br>
 <br>
-<h2> Variation I </h2> Index term: CAE
+<h2> Variation I </h2> 
+<br>
+Index term: CAE
 <br>
 <blockquote> "C. A. E.", Elgar's wife. I.
 <br>
@@ -60,7 +62,9 @@ Here are some examples of how it has been used and remembered throughout history
 <img width="330" alt="Screen Shot 2023-01-25 at 9 27 45 PM" src="https://user-images.githubusercontent.com/122332459/214752660-c880f700-a9b2-471e-9091-c03226e22537.png">
 
 <br>
-<h2> Variation II </h2> Index term: HDSP
+<h2> Variation II </h2> 
+<br>
+Index term: HDSP
 <br>
 <blockquote> "H. D. S.-P.", Hew David Steuart-Powell. II.
 <br>
@@ -72,7 +76,9 @@ Here are some examples of how it has been used and remembered throughout history
 <img width="416" alt="Screen Shot 2023-01-25 at 9 28 29 PM" src="https://user-images.githubusercontent.com/122332459/214752782-f4632f01-fe52-466f-8b04-a86deaf50441.png">
 
 <br>
-<h2> Variation III </h2> Index term: RBT
+<h2> Variation III </h2> 
+<br>
+Index term: RBT
 <br>
 <blockquote> "R.B.T.", Richard Baxter Townshend. III.
 <br>
@@ -84,7 +90,9 @@ Here are some examples of how it has been used and remembered throughout history
 <img width="423" alt="Screen Shot 2023-01-25 at 9 29 18 PM" src="https://user-images.githubusercontent.com/122332459/214752835-380694ca-de1c-4c7d-8df6-02cd440d0823.png">
 
 <br>
-<h2> Variation IV </h2> Index term: WMB
+<h2> Variation IV </h2> 
+<br>
+Index term: WMB
 <br>
 <blockquote> "W.M.B.", W. M. Baker. IV.
 <br>
@@ -93,7 +101,9 @@ Here are some examples of how it has been used and remembered throughout history
 <img width="402" alt="Screen Shot 2023-01-25 at 9 29 48 PM" src="https://user-images.githubusercontent.com/122332459/214752882-9a3e0e2a-dd51-4038-a4ed-9259a9f66a8f.png">
 
 <br>
-<h2> Variation V </h2> Index term: RPA
+<h2> Variation V </h2> 
+<br>
+Index term: RPA
 <br>
 <blockquote> "R.P.A.", Richard P. Arnold. V.
 <br>
@@ -105,7 +115,9 @@ Here are some examples of how it has been used and remembered throughout history
 <img width="373" alt="Screen Shot 2023-01-25 at 9 30 16 PM" src="https://user-images.githubusercontent.com/122332459/214752937-694f7237-2998-421f-ae94-8a6b019d6905.png">
 
 <br>
-<h2> Variation VI </h2> Index term: YSOBEL
+<h2> Variation VI </h2> 
+<br>
+Index term: YSOBEL
 <br>
 <blockquote> "YSOBEL", Isabel Fitton. VI.
 <br>
@@ -117,7 +129,9 @@ Here are some examples of how it has been used and remembered throughout history
 <img width="406" alt="Screen Shot 2023-01-25 at 9 30 38 PM" src="https://user-images.githubusercontent.com/122332459/214752976-2c80c28d-1995-4792-bc39-ece90e7dc365.png">
 
 <br>
-<h2> Variation VII </h2> Index term: TROYTE
+<h2> Variation VII </h2> 
+<br>
+Index term: TROYTE
 <br>
 <blockquote> "TROYTE", Troyte Griffith. VII. 
 <br>
@@ -129,7 +143,9 @@ Here are some examples of how it has been used and remembered throughout history
 <img width="291" alt="Screen Shot 2023-01-25 at 9 32 14 PM" src="https://user-images.githubusercontent.com/122332459/214753131-a71adacd-7d9f-46bf-ace6-44c5790f45a9.png">
 
 <br>
-<h2> Variation VIII </h2> Index term: WN
+<h2> Variation VIII </h2> 
+<br>
+Index term: WN
 <br>
 <blockquote> "W. N.", Winifred Nobury. VIII.
 <br>
@@ -141,7 +157,9 @@ Here are some examples of how it has been used and remembered throughout history
 <img width="325" alt="Screen Shot 2023-01-25 at 9 32 39 PM" src="https://user-images.githubusercontent.com/122332459/214753183-03d9356f-0c9d-4994-a3af-f29e2ef5c6ed.png">
 
 <br>
-<h2> Variation IX </h2> Index term: NIMROD
+<h2> Variation IX </h2> 
+<br>
+Index term: NIMROD
 <br>
 <blockquote> "NIMROD", A. J. Jaeger. IX.
 <br>
@@ -153,7 +171,9 @@ Here are some examples of how it has been used and remembered throughout history
 <img width="554" alt="Screen Shot 2023-01-25 at 9 33 07 PM" src="https://user-images.githubusercontent.com/122332459/214753234-7db59b5e-7786-476d-b588-1a55e993c3b9.png">
 
 <br>
-<h2> Variation X </h2> Index term: DORABELLA
+<h2> Variation X </h2> 
+<br>
+Index term: DORABELLA
 <br>
 <blockquote> "DORABELLA", Dora Penny. X.
 <br>
@@ -165,7 +185,9 @@ Here are some examples of how it has been used and remembered throughout history
 <img width="399" alt="Screen Shot 2023-01-25 at 9 33 30 PM" src="https://user-images.githubusercontent.com/122332459/214753263-ca369bf5-88bf-4756-89c7-e3bcb6f95854.png">
 
 <br>
-<h2> Variation XI </h2> Index term: GRS
+<h2> Variation XI </h2> 
+<br>
+Index term: GRS
 <br>
 <blockquote> "G. R. S.", George Robertson Sinclair. XI.
 <br>
@@ -177,7 +199,9 @@ Here are some examples of how it has been used and remembered throughout history
 <img width="360" alt="Screen Shot 2023-01-25 at 9 34 45 PM" src="https://user-images.githubusercontent.com/122332459/214753377-89722fcf-6eb0-45c2-b9cd-76b1e8da40f5.png">
 
 <br>
-<h2> Variation XII </h2> Index term: BSN
+<h2> Variation XII </h2> 
+<br>
+Index term: BSN
 <br>
 <blockquote> "B. G. N.", Basil G. Nevinson. XII.
 <br>
@@ -189,7 +213,9 @@ Here are some examples of how it has been used and remembered throughout history
 <img width="304" alt="Screen Shot 2023-01-25 at 9 34 59 PM" src="https://user-images.githubusercontent.com/122332459/214753400-208ac5a7-48d8-459d-a09f-345581a532f4.png">
 
 <br>
-<h2> Variation XIII </h2> Index term: MARY
+<h2> Variation XIII </h2> 
+<br>
+Index term: MARY
 <br>
 <blockquote> "* * * ", Lady Mary Lygon. XIII.
 <br>
@@ -201,7 +227,9 @@ Here are some examples of how it has been used and remembered throughout history
 <img width="387" alt="Screen Shot 2023-01-25 at 9 35 14 PM" src="https://user-images.githubusercontent.com/122332459/214753427-22e2cd49-543e-4cff-a8c9-aefe2879d7ff.png">
 
 <br>
-<h2> Variation XIV </h2> Index term: EDU
+<h2> Variation XIV </h2> 
+<br>
+Index term: EDU
 <br>
 <blockquote> "E. D. U.", The composer, Sir Edward Elgar. XIV.
 <br>
