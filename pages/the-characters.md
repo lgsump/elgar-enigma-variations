@@ -19,9 +19,9 @@ using HTML or markdown.  Do not modify this file above this line -->
 There are also many who believe, with great influence by Elgar's writing, that though it is a mystery, it is one that is meant to be left unsolved. He mentions, rather counter-intuitively, that the connection between the Theme and the different Variations is quite subtle and hard to notice. 
 <blockquote> "The Enigma I will not explain – its "dark saying" must be left unguessed, and I warn you that the connexion between the Variations and the Theme is often of the slightest texture; further, through and over the whole set another and larger theme "goes", but is not played . . . . So the principal Theme never appears, even as in some late dramas – eg Maeterlinck's L'Intruse and Les sept Princesses – the chief character is never on the stage."
 </blockquote>
-<i> Elgar in Charles A. Barry's Programme Note
+<i> Elgar in Charles A. Barry's Programme Note </i>
 <br>
-This note has done much little to stop the public effort to solve the Enigma, and has led more people to attempt and develop a theme that can fit perfectly, like a puzzle, as a layer on top of the Variations and the Theme. Here is a bit more of the programme note entailing more about the <i> Enigma </i>. 
+This note has done little to stop the public effort to solve the Enigma, and has led more people to attempt and develop a theme that can fit perfectly, like a puzzle, as a layer on top of the Variations and the Theme. Here is a bit more of the programme note entailing more about the <i> Enigma </i>:
 <br>
 <blockquote> "This work, commenced in a spirit of humour & continued in deep seriousness, contains sketches of the composer's friends. It may be understood that these personages comment or reflect on the original theme & each one attempts a solution of the Enigma, for so the theme is called. The sketches are not 'portraits' but each variation contains a distinct idea founded on some particular personality or perhaps on some incident known only to two people. This is the basis of the composition, but the work may be listened to as a 'piece of music' apart from any extraneous consideration."
 </blockquote>
