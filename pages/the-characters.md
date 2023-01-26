@@ -21,6 +21,7 @@ There are also many who believe, with great influence by Elgar's writing, that t
 </blockquote>
 <i> Elgar in Charles A. Barry's Programme Note </i>
 <br>
+<br>
 This note has done little to stop the public effort to solve the Enigma, and has led more people to attempt and develop a theme that can fit perfectly, like a puzzle, as a layer on top of the Variations and the Theme. Here is a bit more of the programme note entailing more about the <i> Enigma </i>:
 <br>
 <blockquote> "This work, commenced in a spirit of humour & continued in deep seriousness, contains sketches of the composer's friends. It may be understood that these personages comment or reflect on the original theme & each one attempts a solution of the Enigma, for so the theme is called. The sketches are not 'portraits' but each variation contains a distinct idea founded on some particular personality or perhaps on some incident known only to two people. This is the basis of the composition, but the work may be listened to as a 'piece of music' apart from any extraneous consideration."
