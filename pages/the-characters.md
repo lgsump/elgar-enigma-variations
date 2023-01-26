@@ -43,6 +43,8 @@ Here are some examples of how it has been used and remembered throughout history
 <br>
   - The ninth variation, <i>Nimrod</i>, the piece's most popular movement, is commonly used at funerals and memorials, and has been used in the Hong Kong handover ceremoney in 1997, the opening ceremony for the London 2012 Olympic Games, and the final piece, before the national anthem, played by the Greek National Orchestra as their ensemble was being cut due to governmental funding issues.
 <br>
+![image](https://user-images.githubusercontent.com/122332459/214743888-18ebd490-bbe3-46d4-b744-c56a11c2fee7.png)
+
 <br>
 <h2> Variation I </h2>
 <br>
