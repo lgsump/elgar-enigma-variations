@@ -210,12 +210,12 @@ Here are some examples of how it has been used and remembered throughout history
 <img width="601" alt="Screen Shot 2023-01-25 at 9 35 31 PM" src="https://user-images.githubusercontent.com/122332459/214753458-d65f9f90-443d-4ee1-8153-e4dd8a29b14f.png">
 <br>
 <br>
-  Bibliography
+<h3> Bibliography </h3>
 <br>
-  
-    Elgar, Edward (1946). My Friends Pictured Within. The subjects of the Enigma Variations as portrayed in contemporary photographs and Elgar's manuscript. London: Novello.
-    <br>
-    Moore, Jerrold Northrop (1984). Edward Elgar: A Creative Life. Oxford University Press. ISBN 0-19-315447-1.
-    <br>
-    Turner, Patrick (2007). Elgar's 'Enigma' Variations – A Centenary Celebration (second ed.). London: Thames Publishing.
+<br>
+Elgar, Edward (1946). My Friends Pictured Within. The subjects of the Enigma Variations as portrayed in contemporary photographs and Elgar's manuscript. London: Novello.
+<br>
+Moore, Jerrold Northrop (1984). Edward Elgar: A Creative Life. Oxford University Press. ISBN 0-19-315447-1.
+<br>
+Turner, Patrick (2007). Elgar's 'Enigma' Variations – A Centenary Celebration (second ed.). London: Thames Publishing.
     
