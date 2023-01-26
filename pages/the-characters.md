@@ -17,7 +17,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 
   "There is no break between the theme and this movement. The variation is really a prolongation of the theme with what I wished to be romantic and delicate additions; those who knew C.A.E. will understand this reference to one whose life was a romantic and delicate inspiration." 
 </blockquote>
-<img src="[[file:///var/folders/6h/1_q4p3qd6rgdvflf1b6qvl980000gn/T/TemporaryItems/(A%20Document%20Being%20Saved%20By%20screencaptureui)/Screen%20Shot%202023-01-25%20at%205.17.49%20PM.png](https://en.wikipedia.org/wiki/Alice_Elgar#/media/File:Elgar-Alice-c1891.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/61/Elgar-Alice-c1891.jpg)" />
+![image](https://user-images.githubusercontent.com/122332459/214722110-702d1052-1e20-4c8f-aa00-17fbff209133.png)
 
 <blockquote> "H. D. S.-P.", Hew David Steuart-Powell. II.
 
