@@ -5,16 +5,19 @@ permalink: the-characters
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
-<head> Elgar's Enigma Variations is an iconic orchestral piece for both the English and the world. This piece is important and interesting in many different ways, but this page will focus on the themes that Elgar used to organize and create the pieces. Elgar, ultimately, was very moved by the people around him, so in this piece, each movement, or in these words, Variation, is centered around a person or small group of people. 
+<p> Elgar's Enigma Variations is an iconic orchestral piece for both the English and the world. This piece is important and interesting in many different ways, but this page will focus on the themes that Elgar used to organize and create the pieces. Elgar, ultimately, was very moved by the people around him, so in this piece, each movement, or in these words, Variation, is centered around a person or small group of people. 
+</p>
+<br>
+<p>Firstly, I will be using the information that he used in his documentation of the characters named "My Friends Pictured Within".
+</p>
+<br>
+<p>"The Subjects of the Enigma Variations as portrayed in contemporary photographs and Elgar's manuscript".
+</p>
+<br>
+<p>Firstly, it leaves out any notes regarding the Theme because it is believed to have been about Elgar himself, as well as the Finale. So, we'll begin with Variation I. 
+</p>
 
-Firstly, I will be using the information that he used in his documentation of the characters named "My Friends Pictured Within". 
-
-"The Subjects of the Enigma Variations as portrayed in contemporary photographs and Elgar's manuscript".
-
-Firstly, it leaves out any notes regarding the Theme because it is believed to have been about Elgar himself, as well as the Finale. So, we'll begin with Variation I. 
-</head>
-
-
+<br>
 <blockquote> "C. A. E.", Elgar's wife. I.
 
   "There is no break between the theme and this movement. The variation is really a prolongation of the theme with what I wished to be romantic and delicate additions; those who knew C.A.E. will understand this reference to one whose life was a romantic and delicate inspiration." 
