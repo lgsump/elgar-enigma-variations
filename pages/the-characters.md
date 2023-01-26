@@ -54,7 +54,8 @@ Here are some examples of how it has been used and remembered throughout history
 <br>
   "There is no break between the theme and this movement. The variation is really a prolongation of the theme with what I wished to be romantic and delicate additions; those who knew C.A.E. will understand this reference to one whose life was a romantic and delicate inspiration." 
 </blockquote>
-<br> <tt>The annotation attached to Variation I highlights the melody that he would sing to Alice, his wife, every time he got home. This annotation is seen at annotation #5.</tt> <br>
+<br> 
+<tt>The annotation attached to Variation I highlights the melody that he would sing to Alice, his wife, every time he got home. This annotation is seen at annotation #5.</tt> <br>
 <br> 
 <img width="330" alt="Screen Shot 2023-01-25 at 9 27 45 PM" src="https://user-images.githubusercontent.com/122332459/214752660-c880f700-a9b2-471e-9091-c03226e22537.png">
 
@@ -65,7 +66,9 @@ Here are some examples of how it has been used and remembered throughout history
 <br>
   "Hew David Steuart-Powell was a well-known amateur pianist and a great player of chamber music. He was associated with B.G.N. (Cello) and the Composer (Violin) for many years in this playing. His characteristic diatonic run over the keys before beginning to play is here humorously travestied in the semiquaver passages; these should suggest a Toccata, but chromatic beyond H.D.S.-P.'s liking."
 </blockquote> 
-<br> <tt> As mentioned in the passage, I selected the half-step melody to emphasize in Hew's passage. The diatonic run is noted in annotation #7.</tt> 
+<br> 
+<tt> As mentioned in the passage, I selected the half-step melody to emphasize in Hew's passage. The diatonic run is noted in annotation #7.</tt> 
+<br>
 <img width="416" alt="Screen Shot 2023-01-25 at 9 28 29 PM" src="https://user-images.githubusercontent.com/122332459/214752782-f4632f01-fe52-466f-8b04-a86deaf50441.png">
 
 <br>
@@ -75,7 +78,9 @@ Here are some examples of how it has been used and remembered throughout history
 <br>
   "Richard Baxter Townshend, whose Tenderfoot books are now so well known and appreciated. The Variation has a reference to R.B.T's presentation of an old man in some amateur theatricals- the low voice flying off occasionally into 'soprano' timbre. The oboe gives a somewhat pert version of the theme, and the growing grumpiness of the bassoons is important."
 </blockquote>
-<br> <tt> Elgar notes Richard T's 'growing grumpiness' in the bassoons, so I chose to recognize that in annotation #9 and #10.</tt>
+<br> 
+<tt> Elgar notes Richard T's 'growing grumpiness' in the bassoons, so I chose to recognize that in annotation #9 and #10.</tt>
+<br>
 <img width="423" alt="Screen Shot 2023-01-25 at 9 29 18 PM" src="https://user-images.githubusercontent.com/122332459/214752835-380694ca-de1c-4c7d-8df6-02cd440d0823.png">
 
 <br>
@@ -94,7 +99,9 @@ Here are some examples of how it has been used and remembered throughout history
 <br>
   "Richard P. Arnold, son of Matthew Arnold. A great lover of music which he played (on the pianoforte) in a self-taught manner, evading difficulties but suggesting in a mysterious way the real feeling. His serious conversation was continually broken up by whimsical and witty remarks. The theme is given by the basses with solemnity and in the ensuing major portion there is much light-hearted badinage among the wind instruments."
 </blockquote>
-<br> <tt> The wind instruments were chosen in the #13 and #14 annotation in the fifth variation to resemble Richard A's witty remarks.</tt>
+<br> 
+<tt> The wind instruments were chosen in the #13 and #14 annotation in the fifth variation to resemble Richard A's witty remarks.</tt>
+<br>
 <img width="373" alt="Screen Shot 2023-01-25 at 9 30 16 PM" src="https://user-images.githubusercontent.com/122332459/214752937-694f7237-2998-421f-ae94-8a6b019d6905.png">
 
 <br>
@@ -104,7 +111,9 @@ Here are some examples of how it has been used and remembered throughout history
 <br>
   "A Malvern lady, an amateur viola player. It may be noticed that the opening bar, a phrase made use of throughout the variation, is an 'exercise' for crossing the strings- a difficulty for beginners on this is built a pensive and, for a moment, romantic movement."
 </blockquote>
-<br> <tt> Annotation #16 and #17 both highlight Isabel's challenge in being an amateur violist.</tt>
+<br>
+<tt> Annotation #16 and #17 both highlight Isabel's challenge in being an amateur violist.</tt>
+<br>
 <img width="406" alt="Screen Shot 2023-01-25 at 9 30 38 PM" src="https://user-images.githubusercontent.com/122332459/214752976-2c80c28d-1995-4792-bc39-ece90e7dc365.png">
 
 <br>
@@ -114,7 +123,9 @@ Here are some examples of how it has been used and remembered throughout history
 <br>
   "A well-known architect in Malvern. The boisterous mood is mere banter. The uncouth rhythm of the drums and lower strings was really suggested by some maladroit essays to play the pianoforte; later the strong rhythm suggests the attempts of the instructor (E.E.) to make something like order out of chaos, and the final despairing "slam" records that the effort proved to be vain."
 </blockquote>
-<br> <tt> Annotation #19 highlights the the drums and frantic rhythm that Elgar expresses as his frustrations in teaching Troyte pianoforte.</tt>
+<br> 
+<tt> Annotation #19 highlights the the drums and frantic rhythm that Elgar expresses as his frustrations in teaching Troyte pianoforte.</tt>
+<br>
 <img width="291" alt="Screen Shot 2023-01-25 at 9 32 14 PM" src="https://user-images.githubusercontent.com/122332459/214753131-a71adacd-7d9f-46bf-ace6-44c5790f45a9.png">
 
 <br>
@@ -124,7 +135,9 @@ Here are some examples of how it has been used and remembered throughout history
 <br>
   "Really suggested by an eighteenth-century house. The gracious personalities of the ladies are sedately shown. W. N. was more connected with music than others of the family, and her initials head the movement; to justify this position a suggestion of a characteristic laugh is given."
 </blockquote>
-<br> <tt> This annotation highlights the only one that was about a group of people, even though the picture below depicts the most obvious personality throughout the variation, Winifred Nobury. Annotation #21 and #22 locate where her laugh is present in the piece.</tt>
+<br> 
+<tt> This annotation highlights the only one that was about a group of people, even though the picture below depicts the most obvious personality throughout the variation, Winifred Nobury. Annotation #21 and #22 locate where her laugh is present in the piece.</tt>
+<br>
 <img width="325" alt="Screen Shot 2023-01-25 at 9 32 39 PM" src="https://user-images.githubusercontent.com/122332459/214753183-03d9356f-0c9d-4994-a3af-f29e2ef5c6ed.png">
 
 <br>
@@ -134,7 +147,9 @@ Here are some examples of how it has been used and remembered throughout history
 <br>
   "The variations are not all "portraits"; some represent only a mood, while other recall an incident known only to two persons. Something ardent and mercurial, in addition to the slow movement (No. IX), would have been needful to portray the character and temperament of A. J. Jaeger (Nimrod). The variation bearing this name is the record of a long summer evening talk, when my friend discoursed eloquently on the slow movements of Beethoven, and said that no one could approach Beethoven at his best in this field, a view with which I cordially concurred. It will be noticed that the opening bars are made to suggest the slow movement of the Eighth Sonata (Pathetique). Jaeger was for years the dear friend, the valued adviser and the stern critic of many musicians besides the writer; his place has been occupied but never filled."
 </blockquote>
-<br> <tt> For the most popular and culturally significant variation in the work, I've chosen to highlight the point in the piece where I believe to be the suggestion of paralleling Beethoven's Pathetique at annotation #24. I've also wanted to make it significant to notice that it also represents Jaeger's voice and his influence on Elgar continuing his musical pursuits.</tt>
+<br> 
+<tt> For the most popular and culturally significant variation in the work, I've chosen to highlight the point in the piece where I believe to be the suggestion of paralleling Beethoven's Pathetique at annotation #24. I've also wanted to make it significant to notice that it also represents Jaeger's voice and his influence on Elgar continuing his musical pursuits.</tt>
+<br>
 <img width="554" alt="Screen Shot 2023-01-25 at 9 33 07 PM" src="https://user-images.githubusercontent.com/122332459/214753234-7db59b5e-7786-476d-b588-1a55e993c3b9.png">
 
 <br>
@@ -144,7 +159,9 @@ Here are some examples of how it has been used and remembered throughout history
 <br>
   "Intermezzo. The pseudonym is adopted from Mozart's "Cosi fan tutti." The movement suggests a dance-like lightness. The inner sustained phrases at first on the viola and later on the flute should be noted."
 </blockquote>
-<br> <tt> Annotation #26, #27, and #28 all recognize the different points where people believe Elgar to be making light-hearted jabs at Dora's stutter.</tt> 
+<br> 
+<tt> Annotation #26, #27, and #28 all recognize the different points where people believe Elgar to be making light-hearted jabs at Dora's stutter.</tt> 
+<br>
 <img width="399" alt="Screen Shot 2023-01-25 at 9 33 30 PM" src="https://user-images.githubusercontent.com/122332459/214753263-ca369bf5-88bf-4756-89c7-e3bcb6f95854.png">
 
 <br>
@@ -154,7 +171,9 @@ Here are some examples of how it has been used and remembered throughout history
 <br>
   "George Robertson Sinclair, Mus. D., late organist of Hereford Cathedral. The variation, however, has nothing to do with organs or cathedrals, or, except remotely, with G. R. S. The first few bars were suggest by his great bulldog Dan (a well-known character) falling down the steep bank into the river Wye (bar 1); his paddling up stream to find a landing place (bars 2 and 3); and his rejoicing bark on landing (2nd half of bar 5). G. R. S. said, "Set that to music." I did; here it is."
 </blockquote>
-<br> <tt> The annotations chosen on Variation XI were, like Elgar emphasized in his passage above, focused more on the dog, Dan, rather than George. Annotation #30 locates Dan's fall into the river. His struggle in search for land is found in annotation #31, and his rejoice is found in the 31st annotation.</tt>
+<br>
+<tt> The annotations chosen on Variation XI were, like Elgar emphasized in his passage above, focused more on the dog, Dan, rather than George. Annotation #30 locates Dan's fall into the river. His struggle in search for land is found in annotation #31, and his rejoice is found in the 31st annotation.</tt>
+<br>
 <img width="360" alt="Screen Shot 2023-01-25 at 9 34 45 PM" src="https://user-images.githubusercontent.com/122332459/214753377-89722fcf-6eb0-45c2-b9cd-76b1e8da40f5.png">
 
 <br>
@@ -164,7 +183,9 @@ Here are some examples of how it has been used and remembered throughout history
 <br>
   "Basil G. Nevinson, an amateur cello player of distinction and the associate with H. D. S.-P. and the writer (violin) in performances of many trios- a serious and devoted friend. The variation is a tribute to a very dear friend whose scientific and artistic attainments, and the whole-hearted way they were put at the disposal of his friends, particularly endeared him to the writer."
 </blockquote>
-<br> <tt> The twelth variation was highlighted for the cello solo that both starts and finishes it. As a tribute to Basil by Elgar, I've chosen to highlight the beginning and end and the separate cello solos in annotation #34 and #35.</tt>
+<br>
+<tt> The twelth variation was highlighted for the cello solo that both starts and finishes it. As a tribute to Basil by Elgar, I've chosen to highlight the beginning and end and the separate cello solos in annotation #34 and #35.</tt>
+<br>
 <img width="304" alt="Screen Shot 2023-01-25 at 9 34 59 PM" src="https://user-images.githubusercontent.com/122332459/214753400-208ac5a7-48d8-459d-a09f-345581a532f4.png">
 
 <br>
@@ -174,7 +195,9 @@ Here are some examples of how it has been used and remembered throughout history
 <br>
   "The asterisks take the place of the name of a lady who was, at the time of the composition, on a sea voyage. The drums suggest the distant throb of the negines of a liner, over which the clarinet quotes a phrase from Mendelssohn's "Calm Sea and Prosperous Voyage"."
 </blockquote>
-<br> <tt> The final annotations of the piece are seen in #37 and #38. Annotation #37 focuses on making it clear where I believe to be Elgar's attempt of showing her asterisked name. The final annotation, #38, shows the clarinet quote of "Calm Sea and Prosperous Voyage".</tt>
+<br> 
+<tt> The final annotations of the piece are seen in #37 and #38. Annotation #37 focuses on making it clear where I believe to be Elgar's attempt of showing her asterisked name. The final annotation, #38, shows the clarinet quote of "Calm Sea and Prosperous Voyage".</tt>
+<br>
 <img width="387" alt="Screen Shot 2023-01-25 at 9 35 14 PM" src="https://user-images.githubusercontent.com/122332459/214753427-22e2cd49-543e-4cff-a8c9-aefe2879d7ff.png">
 
 <br>
