@@ -19,8 +19,7 @@ Firstly, it leaves out any notes regarding the Theme because it is believed to h
 
   "There is no break between the theme and this movement. The variation is really a prolongation of the theme with what I wished to be romantic and delicate additions; those who knew C.A.E. will understand this reference to one whose life was a romantic and delicate inspiration." 
 </blockquote>
-![image](https://user-images.githubusercontent.com/122332459/214727277-424fe072-6e1d-4bdd-9235-f3b95ec25c7d.png)
-
+![image](https://user-images.githubusercontent.com/122332459/214727726-935eb825-a6dd-4909-b6e3-3b7d3da1e543.png)
 
 <blockquote> "H. D. S.-P.", Hew David Steuart-Powell. II.
 
