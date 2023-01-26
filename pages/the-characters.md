@@ -17,13 +17,13 @@ using HTML or markdown.  Do not modify this file above this line -->
 
   "There is no break between the theme and this movement. The variation is really a prolongation of the theme with what I wished to be romantic and delicate additions; those who knew C.A.E. will understand this reference to one whose life was a romantic and delicate inspiration." 
 </blockquote>
-                        ![image](https://user-images.githubusercontent.com/122332459/214724919-9da0e6b0-fea0-4134-8b9f-86a86af22b8b.png)
+![image](https://user-images.githubusercontent.com/122332459/214724919-9da0e6b0-fea0-4134-8b9f-86a86af22b8b.png)
 
 <blockquote> "H. D. S.-P.", Hew David Steuart-Powell. II.
 
   "Hew David Steuart-Powell was a well-known amateur pianist and a great player of chamber music. He was associated with B.G.N. (Cello) and the Composer (Violin) for many years in this playing. His characteristic diatonic run over the keys before beginning to play is here humorously travestied in the semiquaver passages; these should suggest a Toccata, but chromatic beyond H.D.S.-P.'s liking."
 </blockquote>
-                        ![image](https://user-images.githubusercontent.com/122332459/214725147-833afb3a-18d7-4243-a236-d9b46ea824e6.png)
+![image](https://user-images.githubusercontent.com/122332459/214725147-833afb3a-18d7-4243-a236-d9b46ea824e6.png)
 
 <blockquote> "R.B.T.", Richard Baxter Townshend. III.
 
