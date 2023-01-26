@@ -6,13 +6,13 @@ permalink: the-characters
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
 <h1> Introduction </h1>
-<body text=blue> Sir Edward Elgar's <i>Enigma Variations</i> is an iconic orchestral piece that secured Elgar's international fame and premiered in 1899 in London. This piece is important and interesting in many different ways, but this project will focus on the themes that Elgar used to organize and create the different parts of the piece. Elgar, ultimately, was very moved by the people around him, so in this piece each movement, or in his words, <i>variation</i>, is centered around a person or small group of people.
+<body><body text=blue> Sir Edward Elgar's <i>Enigma Variations</i> is an iconic orchestral piece that secured Elgar's international fame and premiered in 1899 in London. This piece is important and interesting in many different ways, but this project will focus on the themes that Elgar used to organize and create the different parts of the piece. Elgar, ultimately, was very moved by the people around him, so in this piece each movement, or in his words, <i>variation</i>, is centered around a person or small group of people.
 <br>
 <br>
 Firstly, I will be using the information that he used in his documentation of the characters named "My Friends Pictured Within". The quotations and pictures are both from the book, however, the lines after the quotations will mostly note the direct connection between the Variation and the annotations that I made on the next page and will be written in <tt>this font</tt>. Below each variation title will be the "Index term" where you can go to the Index page on the left and look at all the annotations made for each variation. 
 <br>
 <br>
-The book leaves out any notes regarding the "Theme" that comes before the first variation because it is believed to have been about Elgar himself. This is what is presumed about the "Finale" as well. So, we'll begin with Variation I and work our way through to Variation XIV. 
+The book leaves out any notes regarding the "Theme" that comes before the first variation because it is believed to have been about Elgar himself. This is what is presumed about the "Finale" as well. So, we'll begin with Variation I and work our way through to Variation XIV. </body>
 <br>
 <br>
 <h1> The Enigma </h1>
