@@ -8,13 +8,15 @@ using HTML or markdown.  Do not modify this file above this line -->
 <p> Elgar's Enigma Variations is an iconic orchestral piece for both the English and the world. This piece is important and interesting in many different ways, but this page will focus on the themes that Elgar used to organize and create the pieces. Elgar, ultimately, was very moved by the people around him, so in this piece, each movement, or in these words, Variation, is centered around a person or small group of people. 
 </p>
 <br>
-<p>Firstly, I will be using the information that he used in his documentation of the characters named "My Friends Pictured Within".
+<p>Firstly, I will be using the information that he used in his documentation of the characters named "My Friends Pictured Within". The quotations and pictures are both from the book, however, the lines after the quotations will mostly note the direct connection between the Variation and the annotations that I made on the next page.
 </p>
 <br>
-<p>"The Subjects of the Enigma Variations as portrayed in contemporary photographs and Elgar's manuscript".
+<blockquote> "This work, commenced in a spirit of humour & continued in deep seriousness, contains sketches of the composer's friends. It may be understood that these personages comment or reflect on the original theme & each one attempts a solution of the Enigma, for so the theme is called. The sketches are not 'portraits' but each variation contains a distinct idea founded on some particular personality or perhaps on some incident known only to two people. This is the basis of the composition, but the work may be listened to as a 'piece of music' apart from any extraneous consideration."
+</blockquote>
+- Sir Edward Elgar on a 1911 Programme Note
 </p>
 <br>
-<p>Firstly, it leaves out any notes regarding the Theme because it is believed to have been about Elgar himself, as well as the Finale. So, we'll begin with Variation I. 
+<p>Firstly, it leaves out any notes regarding the Theme because it is believed to have been about Elgar himself, as well as the Finale. So, we'll begin with Variation I and work our way through to Variation XIV. 
 </p>
 
 <br>
@@ -22,8 +24,9 @@ using HTML or markdown.  Do not modify this file above this line -->
 <br>
   "There is no break between the theme and this movement. The variation is really a prolongation of the theme with what I wished to be romantic and delicate additions; those who knew C.A.E. will understand this reference to one whose life was a romantic and delicate inspiration." 
 </blockquote>
-![image](https://user-images.githubusercontent.com/122332459/214727726-935eb825-a6dd-4909-b6e3-3b7d3da1e543.png)
 <br> The annotation attached to Variation I highlights the melody that he would sing to Alice, his wife, every time he got home. <br>
+![image](https://user-images.githubusercontent.com/122332459/214727726-935eb825-a6dd-4909-b6e3-3b7d3da1e543.png)
+
 <blockquote> "H. D. S.-P.", Hew David Steuart-Powell. II.
 <br>
   "Hew David Steuart-Powell was a well-known amateur pianist and a great player of chamber music. He was associated with B.G.N. (Cello) and the Composer (Violin) for many years in this playing. His characteristic diatonic run over the keys before beginning to play is here humorously travestied in the semiquaver passages; these should suggest a Toccata, but chromatic beyond H.D.S.-P.'s liking."
@@ -35,7 +38,6 @@ using HTML or markdown.  Do not modify this file above this line -->
   "Richard Baxter Townshend, whose Tenderfoot books are now so well known and appreciated. The Variation has a reference to R.B.T's presentation of an old man in some amateur theatricals- the low voice flying off occasionally into 'soprano' timbre. The oboe gives a somewhat pert version of the theme, and the growing grumpiness of the bassoons is important."
 </blockquote>
 ![image](https://user-images.githubusercontent.com/122332459/214723467-163fd3d7-c0ab-49e3-85bc-b11ab221289e.png)
-
 
 <blockquote> "W.M.B.", W. M. Baker. IV.
 <br>
