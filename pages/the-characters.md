@@ -10,12 +10,9 @@ using HTML or markdown.  Do not modify this file above this line -->
 </p>
 <p>Firstly, I will be using the information that he used in his documentation of the characters named "My Friends Pictured Within". The quotations and pictures are both from the book, however, the lines after the quotations will mostly note the direct connection between the Variation and the annotations that I made on the next page and will be written in <tt>this font</tt>.
 </p>
-<p>Firstly, the book leaves out any notes regarding the "Theme" that comes before the first variation because it is believed to have been about Elgar himself. This is what is presumed about the "Finale" as well. So, we'll begin with Variation I and work our way through to Variation XIV. 
+<p>The book leaves out any notes regarding the "Theme" that comes before the first variation because it is believed to have been about Elgar himself. This is what is presumed about the "Finale" as well. So, we'll begin with Variation I and work our way through to Variation XIV. 
 </p>
 <br>
-<h1> The Enigma </h1>
-![image](https://user-images.githubusercontent.com/122332459/214742777-e788cf23-7a0d-4e9f-9063-fa86cec71a51.png)
-
 <h1> The Enigma </h1>
 <p> The mystery and controversy around this work has mainly stemmed from part of the title: <i> Enigma </i>. Although there was some hinting as to what Elgar might have meant by Enigma, its reality is still unknown. There has been some work produced by scholars, investigators, and Elgar fans in an attempt to "solve" the puzzle. In part, this gathering of annotations that I provide can be of use to those looking for a more systematic presentation of his work and highlighting some of the analogies that he mentions in his writing on the music itself. 
 <br>
@@ -26,6 +23,7 @@ There are also many who believe, with great influence by Elgar's writing, that t
 <br>
 <br>
 This note has done little to stop the public effort to solve the Enigma, and has led more people to attempt and develop a theme that can fit perfectly, like a puzzle, as a layer on top of the Variations and the Theme. Here is a bit more of the programme note entailing more about the <i> Enigma </i>:
+<br>
 <br>
 <blockquote> "This work, commenced in a spirit of humour & continued in deep seriousness, contains sketches of the composer's friends. It may be understood that these personages comment or reflect on the original theme & each one attempts a solution of the Enigma, for so the theme is called. The sketches are not 'portraits' but each variation contains a distinct idea founded on some particular personality or perhaps on some incident known only to two people. This is the basis of the composition, but the work may be listened to as a 'piece of music' apart from any extraneous consideration."
 </blockquote>
@@ -38,8 +36,11 @@ However, no matter if one is interested in solving the puzzle that may or may no
 Here are some examples of how it has been used and remembered throughout history:
 <br>
   - Elgar conducted a performance of the Variations at the memorial of the musicians that had been lost due to the sinking of the Titanic.
+<br>
   - Some believe the use of the "Enigma machine" by Nazi Germany was named after the British piece during World War II. 
+<br>
   - Hans Zimmer used some of the themes in the soundtrack for the movie <i>Dunkirk</i>. 
+<br>
   - The ninth variation, <i>Nimrod</i>, the piece's most popular movement, is commonly used at funerals and memorials, and has been used in the Hong Kong handover ceremoney in 1997, the opening ceremony for the London 2012 Olympic Games, and the final piece, before the national anthem, played by the Greek National Orchestra as their ensemble was being cut due to governmental funding issues.
 <br>
 <br>
@@ -51,7 +52,9 @@ Here are some examples of how it has been used and remembered throughout history
 </blockquote>
 <br> <tt>The annotation attached to Variation I highlights the melody that he would sing to Alice, his wife, every time he got home.</tt> <br>
 <br>
-![image](https://user-images.githubusercontent.com/122332459/214742226-c337c647-2b4a-4524-8e09-ef3c008f9f3d.png)
+
+![image](https://user-images.githubusercontent.com/122332459/214743504-c333188f-8dda-4df1-8040-c17ad21eed0b.png)
+
 
 <br>
 <h2> Variation II </h2>
