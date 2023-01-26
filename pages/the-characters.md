@@ -211,5 +211,6 @@ Here are some examples of how it has been used and remembered throughout history
 <br>
 <br>
   Bibliography
+<br>
   
     Elgar, Edward, and Edward Elgar. My Friends Pictured Within. London: Novello., 1900. 
