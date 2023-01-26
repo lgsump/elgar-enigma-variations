@@ -30,7 +30,6 @@ This note has done little to stop the public effort to solve the Enigma, and has
 <blockquote> "This work, commenced in a spirit of humour & continued in deep seriousness, contains sketches of the composer's friends. It may be understood that these personages comment or reflect on the original theme & each one attempts a solution of the Enigma, for so the theme is called. The sketches are not 'portraits' but each variation contains a distinct idea founded on some particular personality or perhaps on some incident known only to two people. This is the basis of the composition, but the work may be listened to as a 'piece of music' apart from any extraneous consideration."
 </blockquote>
 <br>
-<br>
 <h1> Nationhood and Historic Value </h1>
 <br>
 However, no matter if one is interested in solving the puzzle that may or may not have the ability to be solved, one cannot undermine the beauty and affectionate attitue that the world has placed onto Elgar's piece. No country more than Britain understands its importance and value, and the piece, especially the ninth variation, <i>Nimrod</i>, continues to be used in critical moments in British history.
