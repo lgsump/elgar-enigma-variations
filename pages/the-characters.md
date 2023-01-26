@@ -6,19 +6,37 @@ permalink: the-characters
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
 <h1> Introduction </h1>
-<p> Elgar's Enigma Variations is an iconic orchestral piece for both the English and the world. This piece is important and interesting in many different ways, but this page will focus on the themes that Elgar used to organize and create the pieces. Elgar, ultimately, was very moved by the people around him, so in this piece, each movement, or in these words, Variation, is centered around a person or small group of people. 
+<p> Sir Edward Elgar's <i>Enigma Variations</i> is an iconic orchestral piece that secured Elgar's international fame and premiered in 1899 in London. This piece is important and interesting in many different ways, but this project will focus on the themes that Elgar used to organize and create the different parts of the piece. Elgar, ultimately, was very moved by the people around him, so in this piece each movement, or in his words, <i>variation</i>, is centered around a person or small group of people.
+</p>
+<p>Firstly, I will be using the information that he used in his documentation of the characters named "My Friends Pictured Within". The quotations and pictures are both from the book, however, the lines after the quotations will mostly note the direct connection between the Variation and the annotations that I made on the next page and will be written in <tt>this font</tt>.</p>
+<br>
+<p>Firstly, the book leaves out any notes regarding the "Theme" that comes before the first variation because it is believed to have been about Elgar himself. This is what is presumed about the "Finale" as well. So, we'll begin with Variation I and work our way through to Variation XIV. 
 </p>
 <br>
-<p>Firstly, I will be using the information that he used in his documentation of the characters named "My Friends Pictured Within". The quotations and pictures are both from the book, however, the lines after the quotations will mostly note the direct connection between the Variation and the annotations that I made on the next page and will be written in <tt>this font</tt>.
-</p>
+<h1> The Enigma </h1>
+<p> The mystery and controversy around this work has mainly stemmed from part of the title: <i> Enigma </i>. Although there was some hinting as to what Elgar might have meant by Enigma, its reality is still unknown. There has been some work produced by scholars, investigators, and Elgar fans in an attempt to "solve" the puzzle. In part, this gathering of annotations that I provide can be of use to those looking for a more systematic presentation of his work and highlighting some of the analogies that he mentions in his writing on the music itself. 
+<br>
+There are also many who believe, with great influence by Elgar's writing, that though it is a mystery, it is one that is meant to be left unsolved. He mentions, rather counter-intuitively, that the connection between the Theme and the different Variations is quite subtle and hard to notice. 
+<blockquote> "The Enigma I will not explain – its "dark saying" must be left unguessed, and I warn you that the connexion between the Variations and the Theme is often of the slightest texture; further, through and over the whole set another and larger theme "goes", but is not played . . . . So the principal Theme never appears, even as in some late dramas – eg Maeterlinck's L'Intruse and Les sept Princesses – the chief character is never on the stage."
+</blockquote>
+<i> Elgar in Charles A. Barry's Programme Note
+<br>
+This note has done much little to stop the public effort to solve the Enigma, and has led more people to attempt and develop a theme that can fit perfectly, like a puzzle, as a layer on top of the Variations and the Theme. Here is a bit more of the programme note entailing more about the <i> Enigma </i>. 
 <br>
 <blockquote> "This work, commenced in a spirit of humour & continued in deep seriousness, contains sketches of the composer's friends. It may be understood that these personages comment or reflect on the original theme & each one attempts a solution of the Enigma, for so the theme is called. The sketches are not 'portraits' but each variation contains a distinct idea founded on some particular personality or perhaps on some incident known only to two people. This is the basis of the composition, but the work may be listened to as a 'piece of music' apart from any extraneous consideration."
 </blockquote>
-Sir Edward Elgar on a 1911 Programme Note
+<i>Sir Edward Elgar on a 1911 Programme Note</i>
 <br>
-<p>Firstly, it leaves out any notes regarding the Theme because it is believed to have been about Elgar himself, as well as the Finale. So, we'll begin with Variation I and work our way through to Variation XIV. 
-</p>
-
+<h2> Nationhood and Historic Value </h2>
+<br>
+However, no matter if one is interested in solving the puzzle that may or may not have the ability to be solved, one cannot undermine the beauty and affectionate attitue that the world has placed onto Elgar's piece. No country more than Britain understands its importance and value, and the piece, especially the ninth variation, <i>Nimrod</i>, continues to be used in critical moments in British history.
+<br>
+Here are some examples of how it has been used and remembered throughout history:
+- Elgar conducted a performance of the Variations at the memorial of the musicians that had been lost due to the sinking of the Titanic.
+- Some believe the use of the "Enigma machine" by Nazi Germany was named after the British piece during World War II. 
+- Hans Zimmer used some of the themes in the soundtrack for the movie <i>Dunkirk</i>. 
+- The ninth variation, <i>Nimrod</i>, the piece's most popular movement, is commonly used at funerals and memorials, and has been used in the Hong Kong handover ceremoney in 1997, the opening ceremony for the London 2012 Olympic Games, and the final piece, before the national anthem, played by the Greek National Orchestra as their ensemble was being cut due to governmental funding issues.
+<br>
 <br>
 <h2> Variation I </h2>
 <br>
