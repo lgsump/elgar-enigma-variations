@@ -60,6 +60,7 @@ Here are some examples of how it has been used and remembered throughout history
 <img width="330" alt="Screen Shot 2023-01-25 at 9 27 45 PM" src="https://user-images.githubusercontent.com/122332459/214752660-c880f700-a9b2-471e-9091-c03226e22537.png">
 
 <br>
+<br>
 <h2> Variation II </h2> Index term: HDSP
 <br>
 <br>
@@ -72,6 +73,7 @@ Here are some examples of how it has been used and remembered throughout history
 <br>
 <img width="418" alt="Screen Shot 2023-01-25 at 11 53 03 PM" src="https://user-images.githubusercontent.com/122332459/214767569-e10c109b-0671-409b-af69-727b84b061a3.png">
 
+<br>
 <br>
 <h2> Variation III </h2> Index term: RBT
 <br>
@@ -86,6 +88,7 @@ Here are some examples of how it has been used and remembered throughout history
 <img width="423" alt="Screen Shot 2023-01-25 at 9 29 18 PM" src="https://user-images.githubusercontent.com/122332459/214752835-380694ca-de1c-4c7d-8df6-02cd440d0823.png">
 
 <br>
+<br>
 <h2> Variation IV </h2> Index term: WMB
 <br>
 <br>
@@ -95,6 +98,7 @@ Here are some examples of how it has been used and remembered throughout history
 </blockquote>
 <img width="402" alt="Screen Shot 2023-01-25 at 9 29 48 PM" src="https://user-images.githubusercontent.com/122332459/214752882-9a3e0e2a-dd51-4038-a4ed-9259a9f66a8f.png">
 
+<br>
 <br>
 <h2> Variation V </h2> Index term: RPA
 <br>
@@ -109,6 +113,7 @@ Here are some examples of how it has been used and remembered throughout history
 <img width="373" alt="Screen Shot 2023-01-25 at 9 30 16 PM" src="https://user-images.githubusercontent.com/122332459/214752937-694f7237-2998-421f-ae94-8a6b019d6905.png">
 
 <br>
+<br>
 <h2> Variation VI </h2> Index term: YSOBEL
 <br>
 <br>
@@ -121,6 +126,7 @@ Here are some examples of how it has been used and remembered throughout history
 <br>
 <img width="406" alt="Screen Shot 2023-01-25 at 9 30 38 PM" src="https://user-images.githubusercontent.com/122332459/214752976-2c80c28d-1995-4792-bc39-ece90e7dc365.png">
 
+<br>
 <br>
 <h2> Variation VII </h2> Index term: TROYTE
 <br>
@@ -135,6 +141,7 @@ Here are some examples of how it has been used and remembered throughout history
 <img width="291" alt="Screen Shot 2023-01-25 at 9 32 14 PM" src="https://user-images.githubusercontent.com/122332459/214753131-a71adacd-7d9f-46bf-ace6-44c5790f45a9.png">
 
 <br>
+<br>
 <h2> Variation VIII </h2> Index term: WN
 <br>
 <br>
@@ -147,6 +154,7 @@ Here are some examples of how it has been used and remembered throughout history
 <br>
 <img width="325" alt="Screen Shot 2023-01-25 at 9 32 39 PM" src="https://user-images.githubusercontent.com/122332459/214753183-03d9356f-0c9d-4994-a3af-f29e2ef5c6ed.png">
 
+<br>
 <br>
 <h2> Variation IX </h2> Index term: NIMROD
 <br>
@@ -161,6 +169,7 @@ Here are some examples of how it has been used and remembered throughout history
 <img width="554" alt="Screen Shot 2023-01-25 at 9 33 07 PM" src="https://user-images.githubusercontent.com/122332459/214753234-7db59b5e-7786-476d-b588-1a55e993c3b9.png">
 
 <br>
+<br>
 <h2> Variation X </h2> Index term: DORABELLA
 <br>
 <br>
@@ -173,6 +182,7 @@ Here are some examples of how it has been used and remembered throughout history
 <br>
 <img width="399" alt="Screen Shot 2023-01-25 at 9 33 30 PM" src="https://user-images.githubusercontent.com/122332459/214753263-ca369bf5-88bf-4756-89c7-e3bcb6f95854.png">
 
+<br>
 <br>
 <h2> Variation XI </h2> Index term: GRS
 <br>
@@ -187,6 +197,7 @@ Here are some examples of how it has been used and remembered throughout history
 <img width="360" alt="Screen Shot 2023-01-25 at 9 34 45 PM" src="https://user-images.githubusercontent.com/122332459/214753377-89722fcf-6eb0-45c2-b9cd-76b1e8da40f5.png">
 
 <br>
+<br>
 <h2> Variation XII </h2> Index term: BSN
 <br>
 <br>
@@ -200,6 +211,7 @@ Here are some examples of how it has been used and remembered throughout history
 <img width="304" alt="Screen Shot 2023-01-25 at 9 34 59 PM" src="https://user-images.githubusercontent.com/122332459/214753400-208ac5a7-48d8-459d-a09f-345581a532f4.png">
 
 <br>
+<br>
 <h2> Variation XIII </h2> Index term: MARY
 <br>
 <br>
@@ -212,6 +224,7 @@ Here are some examples of how it has been used and remembered throughout history
 <br>
 <img width="387" alt="Screen Shot 2023-01-25 at 9 35 14 PM" src="https://user-images.githubusercontent.com/122332459/214753427-22e2cd49-543e-4cff-a8c9-aefe2879d7ff.png">
 
+<br>
 <br>
 <h2> Variation XIV </h2> Index term: EDU
 <br>
