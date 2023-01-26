@@ -70,7 +70,7 @@ Here are some examples of how it has been used and remembered throughout history
 <br> 
 <tt> As mentioned in the passage, I selected the half-step melody to emphasize in Hew's passage. The diatonic run is noted in annotation #7.</tt> 
 <br>
-<img width="416" alt="Screen Shot 2023-01-25 at 9 28 29 PM" src="https://user-images.githubusercontent.com/122332459/214752782-f4632f01-fe52-466f-8b04-a86deaf50441.png">
+<img width="418" alt="Screen Shot 2023-01-25 at 11 53 03 PM" src="https://user-images.githubusercontent.com/122332459/214767569-e10c109b-0671-409b-af69-727b84b061a3.png">
 
 <br>
 <h2> Variation III </h2> Index term: RBT
