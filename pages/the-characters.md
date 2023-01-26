@@ -8,8 +8,8 @@ using HTML or markdown.  Do not modify this file above this line -->
 <h1> Introduction </h1>
 <p> Sir Edward Elgar's <i>Enigma Variations</i> is an iconic orchestral piece that secured Elgar's international fame and premiered in 1899 in London. This piece is important and interesting in many different ways, but this project will focus on the themes that Elgar used to organize and create the different parts of the piece. Elgar, ultimately, was very moved by the people around him, so in this piece each movement, or in his words, <i>variation</i>, is centered around a person or small group of people.
 </p>
-<p>Firstly, I will be using the information that he used in his documentation of the characters named "My Friends Pictured Within". The quotations and pictures are both from the book, however, the lines after the quotations will mostly note the direct connection between the Variation and the annotations that I made on the next page and will be written in <tt>this font</tt>.</p>
-<br>
+<p>Firstly, I will be using the information that he used in his documentation of the characters named "My Friends Pictured Within". The quotations and pictures are both from the book, however, the lines after the quotations will mostly note the direct connection between the Variation and the annotations that I made on the next page and will be written in <tt>this font</tt>.
+</p>
 <p>Firstly, the book leaves out any notes regarding the "Theme" that comes before the first variation because it is believed to have been about Elgar himself. This is what is presumed about the "Finale" as well. So, we'll begin with Variation I and work our way through to Variation XIV. 
 </p>
 <br>
@@ -47,7 +47,8 @@ Here are some examples of how it has been used and remembered throughout history
 </blockquote>
 <br> <tt>The annotation attached to Variation I highlights the melody that he would sing to Alice, his wife, every time he got home.</tt> <br>
 <br>
-![image](https://user-images.githubusercontent.com/122332459/214727726-935eb825-a6dd-4909-b6e3-3b7d3da1e543.png)
+![image](https://user-images.githubusercontent.com/122332459/214742226-c337c647-2b4a-4524-8e09-ef3c008f9f3d.png)
+
 <br>
 <h2> Variation II </h2>
 <br>
@@ -56,6 +57,7 @@ Here are some examples of how it has been used and remembered throughout history
   "Hew David Steuart-Powell was a well-known amateur pianist and a great player of chamber music. He was associated with B.G.N. (Cello) and the Composer (Violin) for many years in this playing. His characteristic diatonic run over the keys before beginning to play is here humorously travestied in the semiquaver passages; these should suggest a Toccata, but chromatic beyond H.D.S.-P.'s liking."
 </blockquote>
 ![image](https://user-images.githubusercontent.com/122332459/214727439-2da4ef1a-a2ab-4616-9859-ee6894e6b7f3.png)
+
 <br>
 <h2> Variation III </h2>
 <br>
