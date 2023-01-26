@@ -52,8 +52,7 @@ Here are some examples of how it has been used and remembered throughout history
 </blockquote>
 <br> <tt>The annotation attached to Variation I highlights the melody that he would sing to Alice, his wife, every time he got home.</tt> <br>
 <br> 
-![image](https://user-images.githubusercontent.com/122332459/214750794-c00ca493-1ccf-477d-bec8-d322668b42ed.png)
-
+![image](https://user-images.githubusercontent.com/122332459/214743504-c333188f-8dda-4df1-8040-c17ad21eed0b.png)
 <br>
 <h2> Variation II </h2>
 <br>
