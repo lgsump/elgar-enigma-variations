@@ -46,6 +46,7 @@ Here are some examples of how it has been used and remembered throughout history
   "There is no break between the theme and this movement. The variation is really a prolongation of the theme with what I wished to be romantic and delicate additions; those who knew C.A.E. will understand this reference to one whose life was a romantic and delicate inspiration." 
 </blockquote>
 <br> <tt>The annotation attached to Variation I highlights the melody that he would sing to Alice, his wife, every time he got home.</tt> <br>
+<br>
 ![image](https://user-images.githubusercontent.com/122332459/214727726-935eb825-a6dd-4909-b6e3-3b7d3da1e543.png)
 <br>
 <h2> Variation II </h2>
