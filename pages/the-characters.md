@@ -51,8 +51,8 @@ Here are some examples of how it has been used and remembered throughout history
   "There is no break between the theme and this movement. The variation is really a prolongation of the theme with what I wished to be romantic and delicate additions; those who knew C.A.E. will understand this reference to one whose life was a romantic and delicate inspiration." 
 </blockquote>
 <br> <tt>The annotation attached to Variation I highlights the melody that he would sing to Alice, his wife, every time he got home.</tt> <br>
-<br>
-![image](https://user-images.githubusercontent.com/122332459/214743504-c333188f-8dda-4df1-8040-c17ad21eed0b.png)
+<br> 
+![image](https://user-images.githubusercontent.com/122332459/214750794-c00ca493-1ccf-477d-bec8-d322668b42ed.png)
 
 <br>
 <h2> Variation II </h2>
@@ -60,7 +60,7 @@ Here are some examples of how it has been used and remembered throughout history
 <blockquote> "H. D. S.-P.", Hew David Steuart-Powell. II.
 <br>
   "Hew David Steuart-Powell was a well-known amateur pianist and a great player of chamber music. He was associated with B.G.N. (Cello) and the Composer (Violin) for many years in this playing. His characteristic diatonic run over the keys before beginning to play is here humorously travestied in the semiquaver passages; these should suggest a Toccata, but chromatic beyond H.D.S.-P.'s liking."
-</blockquote>
+</blockquote> 
 ![image](https://user-images.githubusercontent.com/122332459/214744626-1ed5c51a-b320-473c-a6d5-12727096d979.png)
 
 <br>
