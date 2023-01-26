@@ -14,6 +14,9 @@ using HTML or markdown.  Do not modify this file above this line -->
 </p>
 <br>
 <h1> The Enigma </h1>
+![image](https://user-images.githubusercontent.com/122332459/214742777-e788cf23-7a0d-4e9f-9063-fa86cec71a51.png)
+
+<h1> The Enigma </h1>
 <p> The mystery and controversy around this work has mainly stemmed from part of the title: <i> Enigma </i>. Although there was some hinting as to what Elgar might have meant by Enigma, its reality is still unknown. There has been some work produced by scholars, investigators, and Elgar fans in an attempt to "solve" the puzzle. In part, this gathering of annotations that I provide can be of use to those looking for a more systematic presentation of his work and highlighting some of the analogies that he mentions in his writing on the music itself. 
 <br>
 There are also many who believe, with great influence by Elgar's writing, that though it is a mystery, it is one that is meant to be left unsolved. He mentions, rather counter-intuitively, that the connection between the Theme and the different Variations is quite subtle and hard to notice. 
@@ -28,15 +31,16 @@ This note has done little to stop the public effort to solve the Enigma, and has
 </blockquote>
 <br>
 <br>
-<h2> Nationhood and Historic Value </h2>
+<h1> Nationhood and Historic Value </h1>
 <br>
 However, no matter if one is interested in solving the puzzle that may or may not have the ability to be solved, one cannot undermine the beauty and affectionate attitue that the world has placed onto Elgar's piece. No country more than Britain understands its importance and value, and the piece, especially the ninth variation, <i>Nimrod</i>, continues to be used in critical moments in British history.
 <br>
 Here are some examples of how it has been used and remembered throughout history:
-- Elgar conducted a performance of the Variations at the memorial of the musicians that had been lost due to the sinking of the Titanic.
-- Some believe the use of the "Enigma machine" by Nazi Germany was named after the British piece during World War II. 
-- Hans Zimmer used some of the themes in the soundtrack for the movie <i>Dunkirk</i>. 
-- The ninth variation, <i>Nimrod</i>, the piece's most popular movement, is commonly used at funerals and memorials, and has been used in the Hong Kong handover ceremoney in 1997, the opening ceremony for the London 2012 Olympic Games, and the final piece, before the national anthem, played by the Greek National Orchestra as their ensemble was being cut due to governmental funding issues.
+<br>
+  - Elgar conducted a performance of the Variations at the memorial of the musicians that had been lost due to the sinking of the Titanic.
+  - Some believe the use of the "Enigma machine" by Nazi Germany was named after the British piece during World War II. 
+  - Hans Zimmer used some of the themes in the soundtrack for the movie <i>Dunkirk</i>. 
+  - The ninth variation, <i>Nimrod</i>, the piece's most popular movement, is commonly used at funerals and memorials, and has been used in the Hong Kong handover ceremoney in 1997, the opening ceremony for the London 2012 Olympic Games, and the final piece, before the national anthem, played by the Greek National Orchestra as their ensemble was being cut due to governmental funding issues.
 <br>
 <br>
 <h2> Variation I </h2>
