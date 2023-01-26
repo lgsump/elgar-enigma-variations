@@ -5,7 +5,7 @@ permalink: the-characters
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
-<h6> Introduction </h6>
+<h1> Introduction </h1>
 <p> Elgar's Enigma Variations is an iconic orchestral piece for both the English and the world. This piece is important and interesting in many different ways, but this page will focus on the themes that Elgar used to organize and create the pieces. Elgar, ultimately, was very moved by the people around him, so in this piece, each movement, or in these words, Variation, is centered around a person or small group of people. 
 </p>
 <br>
