@@ -233,7 +233,8 @@ Here are some examples of how it has been used and remembered throughout history
 <br>
   "Finale: bold and vigorous in general style. Written at a time when friends were dubious and generally discouraging as to the composer's musical future, this variation is merely to show what E.D.U. (a paraphrase of a fond name) intended to do. References made to Var. I (C.A.E.) and to Var. IX (Nimrod), two great influences on the life and art of the composer, are entirely fitting to the intention of the piece. The whole of the work is summed up in the triumphant broad presentation of the theme in the major."
 </blockquote>
-<img width="601" alt="Screen Shot 2023-01-25 at 9 35 31 PM" src="https://user-images.githubusercontent.com/122332459/214753458-d65f9f90-443d-4ee1-8153-e4dd8a29b14f.png">
+<img width="594" alt="Screen Shot 2023-01-25 at 11 59 35 PM" src="https://user-images.githubusercontent.com/122332459/214768300-6ab8bee8-6ded-4fdd-94cc-6c83425e0e0b.png">
+
 <br>
 <br>
 <h3> Bibliography </h3>
