@@ -6,12 +6,14 @@ permalink: the-characters
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
 <h1> Introduction </h1>
-<p> Sir Edward Elgar's <i>Enigma Variations</i> is an iconic orchestral piece that secured Elgar's international fame and premiered in 1899 in London. This piece is important and interesting in many different ways, but this project will focus on the themes that Elgar used to organize and create the different parts of the piece. Elgar, ultimately, was very moved by the people around him, so in this piece each movement, or in his words, <i>variation</i>, is centered around a person or small group of people.
-</p>
-<p>Firstly, I will be using the information that he used in his documentation of the characters named "My Friends Pictured Within". The quotations and pictures are both from the book, however, the lines after the quotations will mostly note the direct connection between the Variation and the annotations that I made on the next page and will be written in <tt>this font</tt>.
-</p>
-<p>The book leaves out any notes regarding the "Theme" that comes before the first variation because it is believed to have been about Elgar himself. This is what is presumed about the "Finale" as well. So, we'll begin with Variation I and work our way through to Variation XIV. 
-</p>
+Sir Edward Elgar's <i>Enigma Variations</i> is an iconic orchestral piece that secured Elgar's international fame and premiered in 1899 in London. This piece is important and interesting in many different ways, but this project will focus on the themes that Elgar used to organize and create the different parts of the piece. Elgar, ultimately, was very moved by the people around him, so in this piece each movement, or in his words, <i>variation</i>, is centered around a person or small group of people.
+<br>
+<br>
+Firstly, I will be using the information that he used in his documentation of the characters named "My Friends Pictured Within". The quotations and pictures are both from the book, however, the lines after the quotations will mostly note the direct connection between the Variation and the annotations that I made on the next page and will be written in <tt>this font</tt>.
+<br>
+<br>
+The book leaves out any notes regarding the "Theme" that comes before the first variation because it is believed to have been about Elgar himself. This is what is presumed about the "Finale" as well. So, we'll begin with Variation I and work our way through to Variation XIV. 
+<br>
 <br>
 <h1> The Enigma </h1>
 <p> The mystery and controversy around this work has mainly stemmed from part of the title: <i> Enigma </i>. Although there was some hinting as to what Elgar might have meant by Enigma, its reality is still unknown. There has been some work produced by scholars, investigators, and Elgar fans in an attempt to "solve" the puzzle. In part, this gathering of annotations that I provide can be of use to those looking for a more systematic presentation of his work and highlighting some of the analogies that he mentions in his writing on the music itself. 
@@ -27,9 +29,6 @@ This note has done little to stop the public effort to solve the Enigma, and has
 <br>
 <blockquote> "This work, commenced in a spirit of humour & continued in deep seriousness, contains sketches of the composer's friends. It may be understood that these personages comment or reflect on the original theme & each one attempts a solution of the Enigma, for so the theme is called. The sketches are not 'portraits' but each variation contains a distinct idea founded on some particular personality or perhaps on some incident known only to two people. This is the basis of the composition, but the work may be listened to as a 'piece of music' apart from any extraneous consideration."
 </blockquote>
-<br>
-![image](https://user-images.githubusercontent.com/122332459/214751223-43a8ea05-3e8f-4e1a-91d8-ee5ac3164c66.png)
-
 <br>
 <br>
 <h1> Nationhood and Historic Value </h1>
