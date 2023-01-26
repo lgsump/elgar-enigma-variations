@@ -19,10 +19,10 @@ using HTML or markdown.  Do not modify this file above this line -->
 
 <br>
 <blockquote> "C. A. E.", Elgar's wife. I.
-
+<br>
   "There is no break between the theme and this movement. The variation is really a prolongation of the theme with what I wished to be romantic and delicate additions; those who knew C.A.E. will understand this reference to one whose life was a romantic and delicate inspiration." 
 </blockquote>
-![image](https://user-images.githubusercontent.com/122332459/214727726-935eb825-a6dd-4909-b6e3-3b7d3da1e543.png)
+<img src="![image](https://user-images.githubusercontent.com/122332459/214727726-935eb825-a6dd-4909-b6e3-3b7d3da1e543.png)" align=center>
 
 <blockquote> "H. D. S.-P.", Hew David Steuart-Powell. II.
 
