@@ -192,7 +192,7 @@ Here are some examples of how it has been used and remembered throughout history
   "George Robertson Sinclair, Mus. D., late organist of Hereford Cathedral. The variation, however, has nothing to do with organs or cathedrals, or, except remotely, with G. R. S. The first few bars were suggest by his great bulldog Dan (a well-known character) falling down the steep bank into the river Wye (bar 1); his paddling up stream to find a landing place (bars 2 and 3); and his rejoicing bark on landing (2nd half of bar 5). G. R. S. said, "Set that to music." I did; here it is."
 </blockquote>
 <br>
-<tt> The annotations chosen on Variation XI were, like Elgar emphasized in his passage above, focused more on the dog, Dan, rather than George. Annotation #30 locates Dan's fall into the river. His struggle in search for land is found in annotation #31, and his rejoice is found in the 31st annotation.</tt>
+<tt> The annotations chosen on Variation XI were, like Elgar emphasized in his passage above, focused more on the dog, Dan, rather than George. Annotation #30 locates Dan's fall into the river. His struggle in search for land is found in annotation #31, and his rejoice is found in the 32nd annotation.</tt>
 <br>
 <img width="360" alt="Screen Shot 2023-01-25 at 9 34 45 PM" src="https://user-images.githubusercontent.com/122332459/214753377-89722fcf-6eb0-45c2-b9cd-76b1e8da40f5.png">
 
